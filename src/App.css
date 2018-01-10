@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+}
+
+.participants {
+  height: 200px;
+  width: 200px;
+}
+
+.me {
+  width: 200px;
+  height: 200px;
+}
